@@ -1,0 +1,9 @@
+@charset "utf-8";
+.negrita {
+	font-weight: bold;
+	font-size: 14px;
+}
+.bordes {
+	border: medium solid #2099ac;
+	text-align: left;
+}

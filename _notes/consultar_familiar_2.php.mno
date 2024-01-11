@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_fam" value="name:id_familiares;datatype:int,name:nombres;datatype:string,name:cedula;datatype:int,name:parentesco;datatype:string,name:edad;datatype:int,name:empleado;datatype:int,name:observaciones;datatype:string" />
+</info>

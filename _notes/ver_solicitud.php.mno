@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_solicitud" value="name:id_solicitud;datatype:int,name:tipo;datatype:string,name:fecha;datatype:date,name:estado;datatype:int,name:empleado;datatype:int,name:usuario;datatype:int,name:usuario_proc;datatype:int" />
+	<infoitem key="UD_empleado" value="name:id_empleado;datatype:int,name:nombres;datatype:string,name:cedula;datatype:int,name:nomina;datatype:string,name:cargo;datatype:string,name:departamento;datatype:string,name:fecha_ingreso;datatype:date,name:salario;datatype:string,name:telefono;datatype:string,name:direccion;datatype:string,name:observaciones;datatype:string" />
+	<infoitem key="UD_usuarios" value="name:idUsuario;datatype:int,name:clave;datatype:string,name:usuario;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:modificar;datatype:int,name:consultar;datatype:int,name:registrar;datatype:int,name:eliminar;datatype:int,name:administrar;datatype:int,name:cedula;datatype:int" />
+	<infoitem key="UD_solicitudes" value="name:id_solicitud;datatype:int,name:tipo;datatype:string,name:fecha;datatype:date,name:estado;datatype:int,name:empleado;datatype:int,name:usuario;datatype:int,name:usuario_proc;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:id_empleado;datatype:int,name:nombres;datatype:string,name:cedula;datatype:int,name:nomina;datatype:string,name:cargo;datatype:string,name:departamento;datatype:string,name:fecha_ingreso;datatype:date,name:salario;datatype:string,name:telefono;datatype:string,name:direccion;datatype:string,name:observaciones;datatype:string" />
+</info>
